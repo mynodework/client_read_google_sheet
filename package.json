@@ -1,0 +1,16 @@
+{
+  "name": "spread_sheet",
+  "version": "0.3.0",
+  "description": "spread sheet",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "developit/express-es6-rest-api",
+  "author": "Jason Miller <jason@developit.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^20.1.0"
+  },
+  "devDependencies": {
+  }
+}

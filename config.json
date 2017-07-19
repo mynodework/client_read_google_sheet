@@ -1,0 +1,10 @@
+{
+    "CLIENT_ID": "32372648152-k79hphqss08ko7k0tjvpekv5tb4o60i5.apps.googleusercontent.com",
+    "CLIENT_SECRET": "4yyLL1qLBIqHjNuaiANvY0rB",
+    "REDIRECT_URL": "https://developers.google.com/oauthplayground",
+    "access_token": "ya29.GluLBFLezcJnd4GE-AydRxdGdP-u5qwkO9keO9CZYnwHXNFqfV3Cdfj740YWDLxhDXk23nEb4EwefOvBUFlrzg_qObH1dqKGAmlsaV2iMJRFXa6EK8CMvG5RjXLl",
+    "token_type": "Bearer",
+    "expiry_date": true,
+    "refresh_token": "1/n0QOUv_IwEa4GZUxZ5JRarWXyNET-fmyJiFqfAAAp1P0ZJaSpM3YJKhLUc_wv7ao",
+    "fileid": "1RFFLbPI00XiKVk1Hm2blUgkC-x9y4WEwdH32F0Nh9uo"
+}
